@@ -1,7 +1,7 @@
 {
   "name": "tutorial",
   "version": "1.0.0",
-  "description": "",
+  "description": "=== Chess game with canvass: https://geeksretreat.wordpress.com/2012/06/01/html-5-canvas-chess-board/ ===",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,5 +12,14 @@
   "dependencies": {
     "express": "^4.16.4",
     "nodemon": "^1.18.8"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmanandhar/tutorial.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bmanandhar/tutorial/issues"
+  },
+  "homepage": "https://github.com/bmanandhar/tutorial#readme"
 }
